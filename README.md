@@ -2,7 +2,8 @@
 <h3 align="center">I'm a brazilian Web Developer</h3>
 <br>
 <div align='center'>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rm-l&theme=tokyonight" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rm-l&theme=dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rm-l&theme=dark" />
 </div>
 
 <br>
