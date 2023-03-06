@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Robson Silva</h1>
 <h3 align="center">I'm a brazilian Web Developer</h3>
 <br>
-<div align='center'>
+<div align='left'>
+  Email: <a href="mailto:dev.robson.silva@gmail.com">dev.robson.silva@gmail.com</a> :link:<br>
+  Linkedin: <a href="https://www.linkedin.com/in/robson-silva-dev">Robson Silva</a> :link:
 </div>
 
 <br>
